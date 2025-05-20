@@ -6,7 +6,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9qa3VhdzFncTl2NWNvYmhjaGIwNjc0NWxlbXkycGt0ZmUzdHI3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HHVBkmaJXSP1jC8WeS/giphy.webp" width="50" style="vertical-align: middle; position: absolute; right: 0; top: 50%;">
 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Currently studying Python at <a href="https://softuni.bg/">SoftUni</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Currently studying Software Engineering at <a href="https://softuni.bg/">SoftUni</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 
 
