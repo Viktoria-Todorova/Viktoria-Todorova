@@ -29,9 +29,9 @@
 
 <div align="center">
 
-| Python Certs | DevOps & Cloud | SQL & Databases | Other Skills |
-|:------------:|:--------------:|:--------------:|:------------:|
-|      4       |       12       |       10       |      11      |
+| Python Certs | DevOps & Cloud | SQL & Databases | Web Development | Business | Design & Other |
+|:------------:|:--------------:|:--------------:|:----------------:|:---------:|:---------------:|
+|      4       |       12       |       13       |        2         |     4     |        7        |
 
 </div>
 
