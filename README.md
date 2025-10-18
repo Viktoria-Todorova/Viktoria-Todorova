@@ -19,8 +19,8 @@
 
 <ul>
   <li><strong>Education 🎓:</strong> I hold a Bachelor's degree in Biotech Engineering and a Master's in Food Management.</li>
-  <li><strong>Study 📖:</strong> Currently learning Python 🐍</li>
-  <li><strong>Goals 🚀:</strong> Aiming to develop advanced skills in Python and SQL for now</li>
+  <li><strong>Study 📖:</strong> Currently learning Django 🐍</li>
+  <li><strong>Goals 🚀:</strong> Aiming to develop advanced skills in Data Engineering</li>
   <li><strong>Interests 🌟:</strong> Coding 💻, Exploring New Technologies 🌐</li>
   <li><strong>Hobbies 🎨:</strong> Dancing 💃, Reading 📚, Traveling 🌍</li>
 </ul>
