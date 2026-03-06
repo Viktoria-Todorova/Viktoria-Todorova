@@ -45,10 +45,49 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Viktoria-Todorova&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktoria-Todorova&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+---
+# 🚀 Some of My Projects
+
+Welcome! Here are some of the projects I’ve worked on 👩‍💻
+
+---
+
+## 🐍 Django Projects
+
+* 🐾📸 **[Petstagram](https://github.com/Viktoria-Todorova/Petstagram)** – Social app for sharing adorable pet photos
+* 🌟 **[My Magic Library](https://github.com/Viktoria-Todorova/DjangoExam)** – Django project for managing a magical book collection
+* 🎵 **[Music App](https://github.com/Viktoria-Todorova/MusicApp)** – A web app for exploring and managing music
+
+---
+
+## 📊 Data & Backend
+
+* 🏗️ **[ETL / ELT Pipeline](https://github.com/Viktoria-Todorova/Data-Warehouse-And-ETL/tree/PB_Excersises/Exam%20Data%20Warehouse%20and%20ETL)** – Data warehouse pipeline project
+
+---
+
+## 🗄️ ORM Projects
+
+* 🍎 **[Fruitipedia](https://github.com/Viktoria-Todorova/ORM/tree/master/Workshop%201/fruitipediaApp)** – Django ORM project for managing fruits
+* 📚 **[Publishing Industry](https://github.com/Viktoria-Todorova/ORM/tree/master/exam)** – ORM-based publishing system
+
+---
+
+## 🎮 Other Projects
+
+* 🎉 **[Fun Projects](https://github.com/Viktoria-Todorova/Funny-Projects)** – Small experimental and creative coding projects
+* 🧩 **[Small Projects](https://github.com/Viktoria-Todorova/Small_Projects)** – Collection of various mini projects
+
+---
+
+⭐ Feel free to explore the repositories and see what I’ve been building!
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Viktoria-Todorova&icon=7&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
