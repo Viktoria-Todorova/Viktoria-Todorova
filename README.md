@@ -23,6 +23,7 @@
   <li><strong>Goals 🚀:</strong> Aiming to develop advanced skills in Data Engineering</li>
   <li><strong>Interests 🌟:</strong> Coding 💻, Exploring New Technologies 🌐</li>
   <li><strong>Hobbies 🎨:</strong> Dancing 💃, Reading 📚, Traveling 🌍</li>
+  <li><strong>Part of CASSINI Hackaton 11-Bulgaria with NeroSense project</li>\
 </ul>
 
 # 🎓 My Professional Certifications
